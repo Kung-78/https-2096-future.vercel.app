@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://project-seven-jade-87.vercel.app/sitemap.xml
